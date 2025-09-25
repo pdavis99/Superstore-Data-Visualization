@@ -50,7 +50,8 @@ This dashboard enables decision-makers to:
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Screenshot](screenshots/Superstore Sales Dashboard.png)  
+![Superstore Sales Dashboard](https://github.com/pdavis99/Superstore-Data-Visualization/raw/main/screenshots/Superstore%20Sales%20Dashboard.png)
+
 
 ---
 
