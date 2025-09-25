@@ -50,7 +50,7 @@ This dashboard enables decision-makers to:
 ---
 
 ## 📸 Dashboard Preview  
-*(Insert screenshot of your dashboard here — e.g., `![Dashboard Screenshot](dashboard.png)`)  
+![Dashboard Screenshot](screenshots/Superstore Sales Dashboard.png)  
 
 ---
 
